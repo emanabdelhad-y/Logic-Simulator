@@ -1,0 +1,10 @@
+Time resolution is 1 ps
+Time: 0 | D: 1010 | S: 00 | Y: 0
+Time: 10000 | D: 1010 | S: 01 | Y: 1
+Time: 20000 | D: 1010 | S: 10 | Y: 0
+Time: 30000 | D: 1010 | S: 11 | Y: 1
+Time: 40000 | D: 0110 | S: 00 | Y: 0
+Time: 50000 | D: 0110 | S: 01 | Y: 1
+Time: 60000 | D: 0110 | S: 10 | Y: 1
+Time: 70000 | D: 0110 | S: 11 | Y: 0
+$finish called at time : 80 ns : File "C:/Users/emanessam26/Desktop/verilog/MUX4To1/MUX4To1.srcs/sim_1/new/testbench.v" Line 62

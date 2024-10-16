@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/emanessam26/Desktop/verilog/half_adder/half_adder.srcs/sim_1/new/hadd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hadd
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/emanessam26/Desktop/verilog/half_adder/half_adder.srcs/sim_1/new/hadd_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module hadd_tb
