@@ -1,6 +1,0 @@
-Time resolution is 1 ps
-Time: 0ns | x: 0 | y: 0 | Sum: 0 | Carry: 0
-Time: 10ns | x: 0 | y: 1 | Sum: 1 | Carry: 0
-Time: 20ns | x: 1 | y: 0 | Sum: 1 | Carry: 0
-Time: 30ns | x: 1 | y: 1 | Sum: 0 | Carry: 1
-$finish called at time : 40 ns : File "C:/Users/emanessam26/Desktop/verilog/half_adder/half_adder.srcs/sim_1/new/hadd_tb.v" Line 41
